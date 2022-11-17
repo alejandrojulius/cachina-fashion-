@@ -1,0 +1,27 @@
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\Cachina Fashion Raul.exe.config
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\Cachina Fashion Raul.exe
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\Cachina Fashion Raul.pdb
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\obj\Debug\Cachina Fashion Raul.csproj.AssemblyReference.cache
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\obj\Debug\Cachina Fashion Raul.csproj.SuggestedBindingRedirects.cache
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\obj\Debug\Cachina_Fashion_Raul.Properties.Resources.resources
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\obj\Debug\Cachina Fashion Raul.csproj.GenerateResource.cache
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\obj\Debug\Cachina Fashion Raul.csproj.CoreCompileInputs.cache
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\obj\Debug\Cachina Fashion Raul.exe
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\obj\Debug\Cachina Fashion Raul.pdb
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\obj\Debug\Cachina_Fashion_Raul.Fro_cachina.resources
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\PdfSharp.Charting.dll
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\PdfSharp.dll
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\RawPrint.dll
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\System.Security.AccessControl.dll
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\System.Security.Permissions.dll
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\System.Security.Principal.Windows.dll
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\PdfSharp.xml
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\PdfSharp.Charting.xml
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\System.Configuration.ConfigurationManager.xml
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\System.Security.AccessControl.xml
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\System.Security.Permissions.xml
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\System.Security.Principal.Windows.xml
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\de\PdfSharp.resources.dll
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\bin\Debug\de\PdfSharp.Charting.resources.dll
+E:\PROGRAMAS INSTITUTO\Cachina Fashion Raul\obj\Debug\Cachina Fashion Raul.csproj.CopyComplete
